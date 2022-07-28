@@ -1,4 +1,4 @@
-# Welcome to my GitHub Project XXXX ! 
+# Welcome to my GitHub Project X ! 
 This is just a test 
 
 Summary:
